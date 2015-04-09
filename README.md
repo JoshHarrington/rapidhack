@@ -1,9 +1,12 @@
 ## We're doing a hackathon.
-What?  
+*What?*  
 http://openhack.github.io/  
-Why?  
+
+*Why?*  
 To have some fun, come up with interesting ideas, start discussions.  
-When?  
+
+*When*   
 May 7th 2015  
-Food?  
+
+*Food?*  
 Yup, we're ordering a vast amount of pizza for y'all.  
