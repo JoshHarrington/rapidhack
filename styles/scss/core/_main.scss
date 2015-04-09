@@ -1,0 +1,16 @@
+/// This is where everything that is universal and can't be related to a component should go
+
+section {
+    @extend %container;
+}
+
+html, body {
+    font-family: 'Lato', sans-serif;
+    * {
+        font-family: inherit;
+    }
+}
+
+h1, h2 {   
+    font-family: 'Amatic SC', cursive;
+}

@@ -1,0 +1,21 @@
+h1 {
+    font-size: 4em;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.titleBlock {
+    position: relative;
+    h1 {
+        background-color: white;
+        background-color: rgba(255, 255, 255, 0.98);
+        position: absolute;
+        display: inline-block;
+        bottom: 0;
+        padding: .4em .5em;
+        margin: 0;
+    }
+}
